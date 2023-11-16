@@ -1,9 +1,11 @@
 {
   "name": "ubits-talent-core",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Ubits Talent core library for broser and server usage ",
   "main": "dist/index",
-  "files": ["dist"],
+  "files": [
+    "dist"
+  ],
   "scripts": {
     "build": "tsc",
     "test": "jest"
