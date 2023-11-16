@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "outDir": "dist", // Especificar el directorio de salida
+    "lib": ["es2016"], // Utilizar funciones de ES2016
+    "sourceMap": true
+  },
+  "include": [
+    "src/**/*.ts" // Incluir todos los archivos con extensión .ts dentro de src o cualquier subdirectorio
+  ]
+}
