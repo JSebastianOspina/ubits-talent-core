@@ -1,7 +1,7 @@
 {
-  "name": "ubits-talent-core",
+  "name": "ubits-talent-360-commons",
   "version": "1.1.2",
-  "description": "Ubits Talent core library for broser and server usage ",
+  "description": "Ubits Talent core library for 360 project browser and server usage ",
   "main": "dist/index",
   "files": [
     "dist"
