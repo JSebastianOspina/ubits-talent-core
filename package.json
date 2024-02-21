@@ -1,6 +1,6 @@
 {
   "name": "ubits-talent-360-commons",
-  "version": "1.1.2",
+  "version": "1.1.3",
   "description": "Ubits Talent core library for 360 project browser and server usage ",
   "main": "dist/index",
   "files": [
